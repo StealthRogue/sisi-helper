@@ -1,4 +1,4 @@
-('/home/thresh/sisi-helper/sisi/build/hope this will be usefull/out00-PYZ.pyz',
+('/home/thresh/PycharmProjects/sisi/build/hope this will be usefull/out00-PYZ.pyz',
  [('encodings.aliases',
    '/usr/lib/python2.7/encodings/aliases.py',
    'PYMODULE'),
