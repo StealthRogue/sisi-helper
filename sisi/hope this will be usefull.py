@@ -35,5 +35,7 @@ while choice != 'q':
     choice = menu()
     if choice == '1':
         daily_tasks()
+    elif choice == 'q':
+        print("See you soon baby!")
     else:
         print("\n Sorry I'm still workin on it baby! <3")
