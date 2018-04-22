@@ -25,8 +25,15 @@ def daily_tasks():
     for i in range(n):
         task = input("What would you like to save for to do task today,honey? ")
         tasks.append(task)
-    for p in range():
-        print("Things you gotta do today: ",tasks)
+
+    os.system('clear')
+    print("\n")
+    print("\n")
+    print("\n")
+    print("\t Things you gotta do today: ",tasks)
+    print("\n")
+    print("\n")
+    print("\n")
 
 def platforms():
     if platform == 'linux'or platform == 'linux2':
@@ -43,6 +50,7 @@ def music():
     newpath = r'C:\Program Files\sisi'
     if not os.path.exists(newpath):
         os.makedirs(newpath)
+
 def music_linux():
     newpath=r'/home/user/sisi'
     if not os.path.exists(newpath):
